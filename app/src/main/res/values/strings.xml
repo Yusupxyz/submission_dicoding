@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission Dicoding</string>
+    <string name="splash_text">Submission...</string>
+    <string name="judul">Smartphone 2 Jutaan</string>
+    <string name="detail">Detail</string>
+    <string name="profil">profil</string>
+    <string name="harga">Harga</string>
+    <string name="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque consequat id magna eget pellentesque. In gravida nunc eros, in vehicula turpis efficitur ac. Phasellus at odio purus. Sed libero ipsum, eleifend et semper id, vestibulum eu dui. Praesent massa risus, efficitur a odio at, aliquet tempus lorem. Nullam consectetur interdum nisi. Ut sit amet ullamcorper lectus.</string>
+    <string name="content_specs_display">MediaTek Helio P22 MT6762R Octa-core</string>
+    <string name="content_specs_size">6.22 inches</string>
+    <string name="content_specs_camera">5 MP; 13 MP</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+    Standby time (LTE): up to 19 days\n</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="cpu">CPU</string>
+    <string name="size">Ukuran Layar</string>
+    <string name="battery">Baterai</string>
+    <string name="sumber">Sumber</string>
+    <string name="web">https://id.priceprice.com</string>
+    <string name="dummy_value">Rp 0</string>
+    <string name="kamera">Kamera Depan/\nBelakang</string>
+    <string name="nama_diri">Yusup Hidayat</string>
+    <string name="email">yusufxyz114@gmail.com</string>
+</resources>
